@@ -25,6 +25,7 @@ const Index = () => (
     <Testimonials />
     <AppDownload />
     <ImageGallery />
+    <CityPassFamily />
     <HelpSection />
     <Newsletter />
     <Footer />
