@@ -8,6 +8,7 @@ import HowItWorks from "@/components/landing/HowItWorks";
 import Testimonials from "@/components/landing/Testimonials";
 import AppDownload from "@/components/landing/AppDownload";
 import ImageGallery from "@/components/landing/ImageGallery";
+import CityPassFamily from "@/components/landing/CityPassFamily";
 import HelpSection from "@/components/landing/HelpSection";
 import Newsletter from "@/components/landing/Newsletter";
 import Footer from "@/components/landing/Footer";
@@ -24,6 +25,7 @@ const Index = () => (
     <Testimonials />
     <AppDownload />
     <ImageGallery />
+    <CityPassFamily />
     <HelpSection />
     <Newsletter />
     <Footer />
